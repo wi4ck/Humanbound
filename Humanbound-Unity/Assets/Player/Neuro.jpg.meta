@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2aee4ac868495c94bb751903f565f422
+guid: ee2ec41d36f103f4da1e849dc297d817
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8159421450301994087
-    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo-pre_0
+      213: 3756294402602868083
+    second: Neuro_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,23 +115,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Knight
+      name: Neuro_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 840
-        width: 60
-        height: 54
+        y: 0
+        width: 736
+        height: 736
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99b0c02eb69e3ce80800000000000000
-      internalID: -8159421450301994087
+      spriteID: 37d9ee28bd9012430800000000000000
+      internalID: 3756294402602868083
       vertices: []
       indices: 
       edges: []
@@ -140,7 +140,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9e947315f847e7f44895b4d42ba2de4a
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Knight: -8159421450301994087
+      Neuro_0: 3756294402602868083
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
